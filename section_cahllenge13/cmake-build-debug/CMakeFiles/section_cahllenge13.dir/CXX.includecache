@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdullah/Desktop/C++/section_cahllenge13/src/main.cpp
+iostream
+-
+movie.h
+/home/abdullah/Desktop/C++/section_cahllenge13/src/movie.h
+movies.h
+/home/abdullah/Desktop/C++/section_cahllenge13/src/movies.h
+
+/home/abdullah/Desktop/C++/section_cahllenge13/src/movie.h
+string
+-
+
+/home/abdullah/Desktop/C++/section_cahllenge13/src/movies.h
+vector
+-
+movie.h
+/home/abdullah/Desktop/C++/section_cahllenge13/src/movie.h
+

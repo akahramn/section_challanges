@@ -1,0 +1,3 @@
+/home/abdullah/Desktop/C++/section_cahllenge13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abdullah/Desktop/C++/section_cahllenge13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abdullah/Desktop/C++/section_cahllenge13/cmake-build-debug/CMakeFiles/section_cahllenge13.dir

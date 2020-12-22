@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/section_cahllenge13.dir/src/main.cpp.o CMakeFiles/section_cahllenge13.dir/src/movie.cpp.o CMakeFiles/section_cahllenge13.dir/src/movies.cpp.o  -o section_cahllenge13 
